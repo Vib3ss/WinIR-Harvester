@@ -83,7 +83,7 @@ Acquirelyzer/
 ```powershell
 # Collection phase - extract artifacts from target system
 .\collect_IR.ps1
-
+```
 ---
 ## 🔍 Detection Capabilities
 

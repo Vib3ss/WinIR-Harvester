@@ -96,9 +96,6 @@ Acquirelyzer/
 - Scheduled task creation
 
 ---
-
-## 📊 Output Formats
-
 ### Collection Output
 ```
 Output/
@@ -111,8 +108,6 @@ Output/
 ├── Logs/
      └── collection.log      # Detailed collection log
 ```
-## 🐛 Troubleshooting
-
 ### Common Issues
 
 **Issue**: "Access Denied" errors during collection
@@ -126,7 +121,6 @@ Output/
 
 **Issue**: PowerShell execution policy errors
 **Solution**: Run `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`
-
 
 ---
 

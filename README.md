@@ -1,6 +1,6 @@
-# Acquirelyzer
+# WinIR-Harvester
 
-**Acquirelyzer** is a lean, script-based incident-response toolkit for Windows endpoints that were (or may be) compromised by the **Nemesis** Remote-Access Trojan or other malware threats.
+**WinIR-Harvester** is a lean, script-based incident-response toolkit for Windows endpoints that were (or may be) compromised by the **Nemesis** Remote-Access Trojan or other malware threats.
 
 It automates two high-leverage phases of your incident response workflow:
 
